@@ -13,7 +13,7 @@ This curiosity drives me to explore and learn new technologies by building proje
 - Exploring software systems and development workflows
 
 ## Skills & Tools
-- Languages: Python, C (basic)
+- Languages: Python, C (basic), Java, 
 - Web: HTML, CSS (learning)
 - Tools: Git, GitHub, VS Code
 
